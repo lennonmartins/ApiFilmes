@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lennon.silva\\Documents\\Pessoal\\curso\\.NET 6 criando uma web API\\dotnet-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4BEC81-BF0A-4047-B1E8-B047A420D3AE}|FilmesApi\\FilmesApi.csproj|c:\\users\\lennon.silva\\documents\\pessoal\\curso\\.net 6 criando uma web api\\dotnet-api\\filmesapi\\dto\\createfilmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4BEC81-BF0A-4047-B1E8-B047A420D3AE}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\dto\\createfilmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4BEC81-BF0A-4047-B1E8-B047A420D3AE}|FilmesApi\\FilmesApi.csproj|c:\\users\\lennon.silva\\documents\\pessoal\\curso\\.net 6 criando uma web api\\dotnet-api\\filmesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4BEC81-BF0A-4047-B1E8-B047A420D3AE}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4BEC81-BF0A-4047-B1E8-B047A420D3AE}|FilmesApi\\FilmesApi.csproj|c:\\users\\lennon.silva\\documents\\pessoal\\curso\\.net 6 criando uma web api\\dotnet-api\\filmesapi\\profiles\\filmeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4BEC81-BF0A-4047-B1E8-B047A420D3AE}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\profiles\\filmeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4BEC81-BF0A-4047-B1E8-B047A420D3AE}|FilmesApi\\FilmesApi.csproj|c:\\users\\lennon.silva\\documents\\pessoal\\curso\\.net 6 criando uma web api\\dotnet-api\\filmesapi\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4BEC81-BF0A-4047-B1E8-B047A420D3AE}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4BEC81-BF0A-4047-B1E8-B047A420D3AE}|FilmesApi\\FilmesApi.csproj|c:\\users\\lennon.silva\\documents\\pessoal\\curso\\.net 6 criando uma web api\\dotnet-api\\filmesapi\\migrations\\20240322201639_criandotabeladefilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4BEC81-BF0A-4047-B1E8-B047A420D3AE}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\migrations\\20240322201639_criandotabeladefilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4BEC81-BF0A-4047-B1E8-B047A420D3AE}|FilmesApi\\FilmesApi.csproj|c:\\users\\lennon.silva\\documents\\pessoal\\curso\\.net 6 criando uma web api\\dotnet-api\\filmesapi\\data\\filmecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4BEC81-BF0A-4047-B1E8-B047A420D3AE}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\data\\filmecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4BEC81-BF0A-4047-B1E8-B047A420D3AE}|FilmesApi\\FilmesApi.csproj|c:\\users\\lennon.silva\\documents\\pessoal\\curso\\.net 6 criando uma web api\\dotnet-api\\filmesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E4BEC81-BF0A-4047-B1E8-B047A420D3AE}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lennon.silva\\Documents\\Pessoal\\curso\\.NET 6 criando uma web API\\dotnet-api\\FilmesApi\\Migrations\\20240322195248_CriandoTabelaDeFilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FilmesApi\\Migrations\\20240322195248_CriandoTabelaDeFilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lennon.silva\\Documents\\Pessoal\\curso\\.NET 6 criando uma web API\\dotnet-api\\FilmesApi\\Program.cs",
+              "RelativeDocumentMoniker": "FilmesApi\\Program.cs",
+              "ToolTip": "C:\\Users\\lennon.silva\\Documents\\Pessoal\\curso\\.NET 6 criando uma web API\\dotnet-api\\FilmesApi\\Program.cs",
+              "RelativeToolTip": "FilmesApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T21:03:10.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FilmeProfile.cs",
+              "DocumentMoniker": "C:\\Users\\lennon.silva\\Documents\\Pessoal\\curso\\.NET 6 criando uma web API\\dotnet-api\\FilmesApi\\Profiles\\FilmeProfile.cs",
+              "RelativeDocumentMoniker": "FilmesApi\\Profiles\\FilmeProfile.cs",
+              "ToolTip": "C:\\Users\\lennon.silva\\Documents\\Pessoal\\curso\\.NET 6 criando uma web API\\dotnet-api\\FilmesApi\\Profiles\\FilmeProfile.cs",
+              "RelativeToolTip": "FilmesApi\\Profiles\\FilmeProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T21:02:39.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateFilmeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\lennon.silva\\Documents\\Pessoal\\curso\\.NET 6 criando uma web API\\dotnet-api\\FilmesApi\\DTO\\CreateFilmeDTO.cs",
+              "RelativeDocumentMoniker": "FilmesApi\\DTO\\CreateFilmeDTO.cs",
+              "ToolTip": "C:\\Users\\lennon.silva\\Documents\\Pessoal\\curso\\.NET 6 criando uma web API\\dotnet-api\\FilmesApi\\DTO\\CreateFilmeDTO.cs",
+              "RelativeToolTip": "FilmesApi\\DTO\\CreateFilmeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T20:54:33.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FilmeContext.cs",
+              "DocumentMoniker": "C:\\Users\\lennon.silva\\Documents\\Pessoal\\curso\\.NET 6 criando uma web API\\dotnet-api\\FilmesApi\\Data\\FilmeContext.cs",
+              "RelativeDocumentMoniker": "FilmesApi\\Data\\FilmeContext.cs",
+              "ToolTip": "C:\\Users\\lennon.silva\\Documents\\Pessoal\\curso\\.NET 6 criando uma web API\\dotnet-api\\FilmesApi\\Data\\FilmeContext.cs",
+              "RelativeToolTip": "FilmesApi\\Data\\FilmeContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T20:35:37.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240322201639_CriandoTabelaDeFilme.cs",
+              "DocumentMoniker": "C:\\Users\\lennon.silva\\Documents\\Pessoal\\curso\\.NET 6 criando uma web API\\dotnet-api\\FilmesApi\\Migrations\\20240322201639_CriandoTabelaDeFilme.cs",
+              "RelativeDocumentMoniker": "FilmesApi\\Migrations\\20240322201639_CriandoTabelaDeFilme.cs",
+              "ToolTip": "C:\\Users\\lennon.silva\\Documents\\Pessoal\\curso\\.NET 6 criando uma web API\\dotnet-api\\FilmesApi\\Migrations\\20240322201639_CriandoTabelaDeFilme.cs",
+              "RelativeToolTip": "FilmesApi\\Migrations\\20240322201639_CriandoTabelaDeFilme.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T20:16:39.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240322195248_CriandoTabelaDeFilme.cs",
+              "DocumentMoniker": "C:\\Users\\lennon.silva\\Documents\\Pessoal\\curso\\.NET 6 criando uma web API\\dotnet-api\\FilmesApi\\Migrations\\20240322195248_CriandoTabelaDeFilme.cs",
+              "RelativeDocumentMoniker": "FilmesApi\\Migrations\\20240322195248_CriandoTabelaDeFilme.cs",
+              "ToolTip": "C:\\Users\\lennon.silva\\Documents\\Pessoal\\curso\\.NET 6 criando uma web API\\dotnet-api\\FilmesApi\\Migrations\\20240322195248_CriandoTabelaDeFilme.cs",
+              "RelativeToolTip": "FilmesApi\\Migrations\\20240322195248_CriandoTabelaDeFilme.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T19:52:48.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Filme.cs",
+              "DocumentMoniker": "C:\\Users\\lennon.silva\\Documents\\Pessoal\\curso\\.NET 6 criando uma web API\\dotnet-api\\FilmesApi\\Models\\Filme.cs",
+              "RelativeDocumentMoniker": "FilmesApi\\Models\\Filme.cs",
+              "ToolTip": "C:\\Users\\lennon.silva\\Documents\\Pessoal\\curso\\.NET 6 criando uma web API\\dotnet-api\\FilmesApi\\Models\\Filme.cs",
+              "RelativeToolTip": "FilmesApi\\Models\\Filme.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T19:51:07.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lennon.silva\\Documents\\Pessoal\\curso\\.NET 6 criando uma web API\\dotnet-api\\FilmesApi\\appsettings.json",
+              "RelativeDocumentMoniker": "FilmesApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\lennon.silva\\Documents\\Pessoal\\curso\\.NET 6 criando uma web API\\dotnet-api\\FilmesApi\\appsettings.json",
+              "RelativeToolTip": "FilmesApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-22T19:46:46.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
