@@ -10,6 +10,6 @@ public class EnderecoProfile : Profile
     {
         CreateMap<CreateEnderecoDTO, Endereco>();
         CreateMap<UpdateFilmeDTO, Endereco>();
-        CreateMap<Endereco, ReadCinemaDTO>();
+        CreateMap<Endereco, ReadEnderecoDTO>();
     }
 }

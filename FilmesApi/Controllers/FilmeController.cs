@@ -32,15 +32,15 @@ public class FilmeController : ControllerBase
     public IActionResult AdicionaFilme([FromBody] CreateFilmeDTO filmeDto)
     {
         Filme filme = _mapper.Map<Filme>(filmeDto);
-        _filmeContext.Add(filme);
+        _filmeContext.Filmes.Add(filme);
         _filmeContext.SaveChanges();
         return CreatedAtAction(nameof(RecuperaFilmePeloId), new { id = filme.Id }, filme);
     }
 
     [HttpGet]
-    public IEnumerable<Filme> RecuperaFilmes([FromQuery] int skip = 0, int take = 10)
+    public IEnumerable<ReadFilmeDTO> RecuperaFilmes([FromQuery] int skip = 0, [FromQuery] int take = 10)
     {
-        return _filmeContext.Filmes.Skip(skip).Take(take).ToList();
+        return _mapper.Map<List<ReadFilmeDTO>>(_filmeContext.Filmes.Skip(skip).Take(take).ToList());
     }
 
     [HttpGet("{id:int}")]

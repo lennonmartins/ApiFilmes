@@ -7504,19 +7504,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lennon.silva\\.nuget\\packages\\": {}
+    "C:\\Users\\marti\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lennon.silva\\Documents\\Pessoal\\curso\\.NET 6 criando uma web API\\dotnet-api\\FilmesApi\\FilmesApi.csproj",
+      "projectUniqueName": "C:\\Users\\marti\\OneDrive\\Documentos\\Projetos\\Cursos alura\\ApiFilmes\\FilmesApi\\FilmesApi.csproj",
       "projectName": "FilmesApi",
-      "projectPath": "C:\\Users\\lennon.silva\\Documents\\Pessoal\\curso\\.NET 6 criando uma web API\\dotnet-api\\FilmesApi\\FilmesApi.csproj",
-      "packagesPath": "C:\\Users\\lennon.silva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lennon.silva\\Documents\\Pessoal\\curso\\.NET 6 criando uma web API\\dotnet-api\\FilmesApi\\obj\\",
+      "projectPath": "C:\\Users\\marti\\OneDrive\\Documentos\\Projetos\\Cursos alura\\ApiFilmes\\FilmesApi\\FilmesApi.csproj",
+      "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\marti\\OneDrive\\Documentos\\Projetos\\Cursos alura\\ApiFilmes\\FilmesApi\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\lennon.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\marti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7601,7 +7606,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
