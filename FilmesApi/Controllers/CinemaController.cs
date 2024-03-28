@@ -4,6 +4,7 @@ using FilmesApi.Data;
 using FilmesApi.DTO;
 using FilmesApi.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace FilmesApi.Controllers;
 
@@ -39,10 +40,17 @@ public class CinemaController : ControllerBase
     }
 
     [HttpGet]
-    public IEnumerable<ReadCinemaDTO> RecuperaTodosOsCinemas()
+    public IEnumerable<ReadCinemaDTO> RecuperaTodosOsCinemas([FromQuery] int? enderecoId = null)
     {
-        var cinemas = _context.Cinemas.ToList();
-        return _mapper.Map<List<ReadCinemaDTO>>(cinemas);
+        if (enderecoId == null)
+        {
+            var cinemas = _context.Cinemas.ToList();
+            return _mapper.Map<List<ReadCinemaDTO>>(cinemas);
+        }
+
+        var conjuntoCinemas = _context.Cinemas.FromSqlRaw(
+            $"SELECT Id, Nome, EnderecoId From Cinemas where Cinemas.EnderecoId = {enderecoId}").ToList();
+        return _mapper.Map<List<ReadCinemaDTO>>(conjuntoCinemas);
     }
 
     [HttpPut("{id}")]

@@ -24,6 +24,11 @@ public class FilmeContext : DbContext
             .HasOne(sessao => sessao.Cinema)
             .WithMany(cinema => cinema.Sessoes)
             .HasForeignKey(sessao => sessao.CinemaId);
+
+        builder.Entity<Endereco>()
+            .HasOne(endereco => endereco.Cinema)
+            .WithOne(cinema => cinema.Endereco)
+            .OnDelete(DeleteBehavior.Restrict);
     }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
